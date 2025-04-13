@@ -1,10 +1,19 @@
 package br.edu.principal;
 
+import java.util.Scanner;
+
 public class Principal {
+	
+		public static void main(String[] args) {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+        double peso;
 
-	}
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Digite seu peso (kg): ");
+        peso = sc.nextDouble();
 
+        double gramas = peso * 1000;
+
+        System.out.println("Seu peso em gramas é, " + gramas);
+    }
 }
