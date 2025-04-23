@@ -8,5 +8,7 @@ A **Programação Orientada a Objetos (POO)** organiza o código em "objetos", q
 
 # Equipe
 (Ana Karine de Freitas Oliveira)[https://github.com/akarinela]
+
 (Humberto Wagner Silva de Sousa)[https://github.com/1bertoW]
+
 (João Pedro Abreu)[https://github.com/ByJoao1]
