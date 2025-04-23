@@ -14,4 +14,4 @@ A **Programação Orientada a Objetos (POO)** organiza o código em "objetos", q
 [João Pedro Abreu da Costa](https://github.com/ByJoao1)
 
 # Linguagens Utilizadas
-A IDE **Eclipse** é um Ambiente de Desenvolvimento Integrado de código aberto e gratuito, que reúne ferramentas para apoiar o desenvolvimento de softwares em diversas linguagens de programação, como Java, JavaScript, PHP, entre outras. Nessa disciplina só usamos Java
+A IDE **Eclipse** é um Ambiente de Desenvolvimento Integrado de código aberto e gratuito, que reúne ferramentas para apoiar o desenvolvimento de softwares em diversas linguagens de programação, como Java, JavaScript, PHP, entre outras. Nessa disciplina só usamos **Java**
