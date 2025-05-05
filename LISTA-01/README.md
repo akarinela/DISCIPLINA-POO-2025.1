@@ -1,7 +1,5 @@
-# Questões do livro Fundamentos da programa de computação
-
+# Exercícios Resolvidos e Propostos Capítulo 03 (Estrutura Sequencial)
 ## Exercícios Resolvidos
-### As 10 primeiras questões do **Capítulo 3**
 
 1. Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 2. Faça um programa que receba três notas, calcule e mostre a média aritmética.
