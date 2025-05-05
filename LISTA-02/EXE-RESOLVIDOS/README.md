@@ -17,6 +17,7 @@
 
 11. Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que: Faça um programa que determine o salário atual desse funcionário.
 12. Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a fórmula a seguir:
+
 13.Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
 14. Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito. Foram obtidos os seguintes dados:
 15. Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor da série a seguir:
