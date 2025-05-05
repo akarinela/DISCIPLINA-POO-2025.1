@@ -1,7 +1,4 @@
-# Questões do livro Fundamentos da programa de computação
-
-## Exercícios Resolvidos e Propostos Capítulo 04 (Estrutura Condicional) 
-### T2: Os 10 Primeiro Exercícios RESOLVIDOS E PROPOSTOS dos Capítulos
+# Exercícios Resolvidos e Propostos Capítulo 04 (Estrutura Condicional)
 ## Exercícios Resolvidos
 
 1. A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir: 
